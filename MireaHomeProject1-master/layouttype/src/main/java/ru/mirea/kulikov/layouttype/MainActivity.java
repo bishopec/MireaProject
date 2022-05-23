@@ -1,4 +1,4 @@
-package ru.mirea.andreev.layouttype;
+package ru.mirea.kulikov.layouttype;
 
 import androidx.appcompat.app.AppCompatActivity;
 

@@ -1,4 +1,4 @@
-package ru.mirea.andreev.clickbuttons;
+package ru.mirea.kulikov.clickbuttons;
 
 import androidx.appcompat.app.AppCompatActivity;
 
