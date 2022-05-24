@@ -6,7 +6,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.mirea.kulikov.lesson3"
+        applicationId "com.mirea.kulikov.practice3"
         minSdk 21
         targetSdk 32
         versionCode 1
